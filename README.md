@@ -2,13 +2,8 @@
 
 This C++ project simulates an ATM interface, allowing users to interact with their bank account via a console application. It's designed to showcase foundational programming skills and concepts, making it an excellent example of practical C++ application for beginners and intermediate developers alike.
 
-**********MENU**********
-1. Check balance
-2. Deposit
-3. Withdraw
-4. Exit
-************************
-Option:
+![image](https://github.com/ibenjaminh/atmMachine_cpp/assets/162258152/634f518b-7482-4db5-a859-3285f725e661)
+
 
 ## Skills and Concepts Showcased
 
@@ -33,60 +28,8 @@ Ensure you have a C++ compiler like GCC, Clang, or MSVC. Compile with
 
 ## Preview 
 
-**********MENU**********
-1. Check balance
-2. Deposit
-3. Withdraw
-4. Exit
-************************
-Option:1
+![image](https://github.com/ibenjaminh/atmMachine_cpp/assets/162258152/b0c54da2-985b-4405-b7e7-253fbae82453)
 
-Balance is: $ 500
-
-**********MENU**********
-1. Check balance
-2. Deposit
-3. Withdraw
-4. Exit
-************************
-Option:2
-
-Deposit amount :800
-
- **********MENU**********
-1. Check balance
-2. Deposit
-3. Withdraw
-4. Exit
-************************
-Option:1
- Balance is: $ 1300
- 
-**********MENU**********
-1. Check balance
-2. Deposit
-3. Withdraw
-4. Exit
-************************
-Option:3
-
-Withdraw amount:200
-
- **********MENU**********
-1. Check balance
-2. Deposit
-3. Withdraw
-4. Exit
-************************
-Option:1
- Balance is: $ 1100
- 
-**********MENU**********
-1. Check balance
-2. Deposit
-3. Withdraw
-4. Exit
-************************
 
 Thank you, 
 Izaac
