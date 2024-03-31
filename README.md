@@ -1,6 +1,7 @@
 # ATM Console Application
 
 This C++ project simulates an ATM interface, allowing users to interact with their bank account via a console application. It's designed to showcase foundational programming skills and concepts, making it an excellent example of practical C++ application for beginners and intermediate developers alike.
+
 **********MENU**********
 1. Check balance
 2. Deposit
@@ -8,6 +9,7 @@ This C++ project simulates an ATM interface, allowing users to interact with the
 4. Exit
 ************************
 Option:
+
 ## Skills and Concepts Showcased
 
 ### Control Structures
@@ -30,6 +32,7 @@ Ensure you have a C++ compiler like GCC, Clang, or MSVC. Compile with
 
 
 ## Preview 
+
 **********MENU**********
 1. Check balance
 2. Deposit
@@ -37,7 +40,9 @@ Ensure you have a C++ compiler like GCC, Clang, or MSVC. Compile with
 4. Exit
 ************************
 Option:1
- Balance is: $ 500
+
+Balance is: $ 500
+
 **********MENU**********
 1. Check balance
 2. Deposit
@@ -47,6 +52,7 @@ Option:1
 Option:2
 
 Deposit amount :800
+
  **********MENU**********
 1. Check balance
 2. Deposit
@@ -55,6 +61,7 @@ Deposit amount :800
 ************************
 Option:1
  Balance is: $ 1300
+ 
 **********MENU**********
 1. Check balance
 2. Deposit
@@ -64,6 +71,7 @@ Option:1
 Option:3
 
 Withdraw amount:200
+
  **********MENU**********
 1. Check balance
 2. Deposit
@@ -72,6 +80,7 @@ Withdraw amount:200
 ************************
 Option:1
  Balance is: $ 1100
+ 
 **********MENU**********
 1. Check balance
 2. Deposit
